@@ -1,2 +1,2 @@
-# mbavr
-Familly of minimalist board for AVR microcontrollers. 
+# MBAVR
+Family of minimalist development boards for AVR microcontrollers.
